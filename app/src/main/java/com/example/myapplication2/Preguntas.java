@@ -19,6 +19,7 @@ public class Preguntas {
 
     }
 
+
     //Metodos
     public String getPreguntas(){
 

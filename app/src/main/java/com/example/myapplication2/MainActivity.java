@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
         responder = findViewById(R.id.responderUser);
         intento = findViewById(R.id.intento);
 
+
         puntajeAct = 0;
         puntaje.setText("Puntaje : " + puntajeAct);
 
